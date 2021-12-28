@@ -23,15 +23,28 @@ body {
 .bg-white {
   background-color: #fff;
   color: black;
+  font-size: 1.3rem;
+  font-family: serif;
+  font-weight: bold;
 }
 .bg-yellow {
   background-color: #ff9d00;
+  font-size: 1.3rem;
+  font-family: serif;
+  font-weight: bold;
 }
 .bg-red {
   background-color: #ec3d45;
+
+  font-size: 1.3remrem;
+  font-family: serif;
+  font-weight: bold;
 }
 .bg-sky {
   background-color: #08b9ca;
+  font-size: 1.3rem;
+  font-family: serif;
+  font-weight: bold;
 }
 .row1 {
   height: 50px;
